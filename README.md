@@ -4,9 +4,7 @@ This project contains a Function App in Python Programming model V2. Two trigger
 The goal: Use it as an example to avoid the Azure Function Apps go idle when running on Consumption plans.
 How? This Function will runs every 4 minutes posting a parameter name in the http trigger function, avoiding the Function's cold starts. 
 
-Function app timeout duration: https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale#timeout. 
-Understanding serverless cold start: https://azure.microsoft.com/en-us/blog/understanding-serverless-cold-start/
 
-<a href="//learn.microsoft.com/en-us/azure/azure-functions/functions-scale#timeout." target="_blank">Function app timeout duration.</a>
+Check the <a href="//learn.microsoft.com/en-us/azure/azure-functions/functions-scale#timeout." target="_blank">Function app timeout duration.</a>
 <br>
-<a href="https://azure.microsoft.com/en-us/blog/understanding-serverless-cold-start/" target="_blank">Understanding serverless cold start.</a>
+And the cold start <a href="https://azure.microsoft.com/en-us/blog/understanding-serverless-cold-start/" target="_blank">Understanding serverless cold start.</a>
