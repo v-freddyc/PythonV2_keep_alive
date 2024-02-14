@@ -8,4 +8,5 @@ Function app timeout duration: https://learn.microsoft.com/en-us/azure/azure-fun
 Understanding serverless cold start: https://azure.microsoft.com/en-us/blog/understanding-serverless-cold-start/
 
 <a href="//learn.microsoft.com/en-us/azure/azure-functions/functions-scale#timeout." target="_blank">Function app timeout duration.</a>
+<br>
 <a href="https://azure.microsoft.com/en-us/blog/understanding-serverless-cold-start/" target="_blank">Understanding serverless cold start.</a>
